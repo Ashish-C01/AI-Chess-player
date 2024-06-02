@@ -23,5 +23,5 @@ pip install -r requirements.txt
 ```
 open the ipynb file and run the cell
 ```
-
+![demo](<Demo.gif>)
 ![Chess](Img1.png "Chess Game")
