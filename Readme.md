@@ -1,4 +1,4 @@
-### AI Chess player
+### AI Chess player [Live Application](https://huggingface.co/spaces/ashish-001/AI-Chess-Player)
 ##
 
 The Simple AI Chess Player is a Python program that allows users to play chess against an artificial intelligence opponent. The AI opponent, provides an engaging and interactive experience by selecting moves based on the score of the position after the move. Players can choose the model to play against the computer (which selects the move randomly) or against human player. The program utilizes the python-chess library for chess board representation and move generation.
